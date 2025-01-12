@@ -11,3 +11,6 @@ I made entitys, components and systems in standard ecs ways and that should be p
 Not much more to say because it was not a big game and most stuff where pretty straight 
 forward to do as in the lectures and on youtube, but that don´t mean it wasn´t hard because 
 it was.
+
+No collision detection because it was not mentioned in the description, hope that it was
+ment that way to. I just want a weak G on this course and move on.
